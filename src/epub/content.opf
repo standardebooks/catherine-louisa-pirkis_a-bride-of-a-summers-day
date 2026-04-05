@@ -29,21 +29,21 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Bride of a Summer’s Day</dc:title>
 		<meta property="file-as" refines="#title">Bride of a Summer’s Day, A</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Detective and mystery stories, English</dc:subject>
+		<dc:subject id="subject-2">Brides--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85037269</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
+		<meta property="term" refines="#subject-2">sh2009117584</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">After her wedding a bride asks to visit her mother’s grave and disappears.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The marriage of Ida Culvers to her first cousin Sefton seems like an opportune match: she receives his title, and he gets access to her fortune. Before setting out on their honeymoon though, Ida asks for some time alone at her mother’s grave, and promptly disappears. The only clue: a letter delivered to her father saying that she’s safe and with friends. That does little to assuage the worries of the family, and when a brooch of Ida’s shows up broken and with missing gems the hunt is definitely on.&lt;/p&gt;
+			&lt;p&gt;First published in 1891 (in &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dicken’s&lt;/a&gt; &lt;i&gt;All the Year Round&lt;/i&gt; magazine), &lt;i&gt;A Bride of a Summer’s Day&lt;/i&gt; sees &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/"&gt;Catherine Louisa Pirkis&lt;/a&gt; continuing her succession of mystery stories, which would reach their height with &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective"&gt;&lt;i&gt;Loveday Brooke, Lady Detective&lt;/i&gt;&lt;/a&gt;. Pirkis here focuses on the worries of the upper class: while a detective does make an appearance, he is only begrudgingly engaged for fear that the scandal would cause a loss of social standing, and when an explanation arrives the telling first thought of the Culvers is to immediately get the investigation stopped.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/sim_all-the-year-round_1891-06-27_5_130</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/catherine-louisa-pirkis_a-bride-of-a-summers-day</meta>
