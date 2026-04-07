@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/catherine-louisa-pirkis/a-bride-of-a-summers-day</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-07T20:14:16Z</dc:date>
+		<meta property="dcterms:modified">2026-04-07T20:14:16Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,15 +37,15 @@
 		<meta property="term" refines="#subject-2">sh2009117584</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">After her wedding a bride asks to visit her mother’s grave and disappears.</dc:description>
+		<dc:description id="description">After her wedding, a bride asks to visit her mother’s grave, and then disappears.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The marriage of Ida Culvers to her first cousin Sefton seems like an opportune match: she receives his title, and he gets access to her fortune. Before setting out on their honeymoon though, Ida asks for some time alone at her mother’s grave, and promptly disappears. The only clue: a letter delivered to her father saying that she’s safe and with friends. That does little to assuage the worries of the family, and when a brooch of Ida’s shows up broken and with missing gems the hunt is definitely on.&lt;/p&gt;
-			&lt;p&gt;First published in 1891 (in &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dicken’s&lt;/a&gt; &lt;i&gt;All the Year Round&lt;/i&gt; magazine), &lt;i&gt;A Bride of a Summer’s Day&lt;/i&gt; sees &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/"&gt;Catherine Louisa Pirkis&lt;/a&gt; continuing her succession of mystery stories, which would reach their height with &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective"&gt;&lt;i&gt;Loveday Brooke, Lady Detective&lt;/i&gt;&lt;/a&gt;. Pirkis here focuses on the worries of the upper class: while a detective does make an appearance, he is only begrudgingly engaged for fear that the scandal would cause a loss of social standing, and when an explanation arrives the telling first thought of the Culvers is to immediately get the investigation stopped.&lt;/p&gt;
+			&lt;p&gt;The marriage of Ida Culvers to her first cousin Sefton seems like an opportune match: she receives his title, and he gets access to her fortune. But before setting out on their honeymoon, Ida asks for some time alone at her mother’s grave—and then promptly disappears. The only clue is a letter delivered to her father saying that she’s safe and with friends. That does little to assuage the worries of the family, and when a brooch of Ida’s shows up broken and missing gems, the hunt is definitely on.&lt;/p&gt;
+			&lt;p&gt;First published in 1891 in &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dicken’s&lt;/a&gt; &lt;i&gt;All the Year Round&lt;/i&gt; magazine, &lt;i&gt;A Bride of a Summer’s Day&lt;/i&gt; sees &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/"&gt;Catherine Louisa Pirkis&lt;/a&gt; continuing to develop her catalog of mystery stories, which would reach its height with &lt;a href="https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective"&gt;&lt;i&gt;Loveday Brooke, Lady Detective&lt;/i&gt;&lt;/a&gt;. Pirkis here focuses on the worries of the upper class: while a detective does make an appearance, he’s only begrudgingly engaged for fear that the scandal would cause a loss of social standing; and when an explanation arrives, the Culvers’ telling first thought is to immediately stop the investigation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/sim_all-the-year-round_1891-06-27_5_130</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">47255</meta>
+		<meta property="se:reading-ease.flesch">67.59</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/catherine-louisa-pirkis_a-bride-of-a-summers-day</meta>
 		<dc:creator id="author">Catherine Louisa Pirkis</dc:creator>
 		<meta property="file-as" refines="#author">Pirkis, Catherine Louisa</meta>
@@ -67,6 +67,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
